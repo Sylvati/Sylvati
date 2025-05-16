@@ -2,6 +2,7 @@
 - 👀 I’m interested in making games and software so people's lives are easier
 - 🌱 I’m currently learning lots of stuff, but im realizing that you can kinda just learn whatever you need when you need it
 - 💞️ I’m looking to collaborate on making the next big thing
+- website: https://sylvati.github.io/personal-website/
 - 📫 How to reach me thru my email latiauthor@gmail.com
 
 <!---
